@@ -1,0 +1,2 @@
+D:\study_source\cpp_code\test2021.3.4\fuzhi_chongzai\Debug\fuzhi_chongzai.exe
+D:\study_source\cpp_code\test2021.3.4\fuzhi_chongzai\Debug\fuzhi_chongzai.pdb
